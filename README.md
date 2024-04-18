@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Olá me chamo Eduardo Afonso faço faculdade de Engenharia da Computação desde 2019, sou um Desenvolvedor Fullstack e Mobile 👨‍💻  🚀</div>  
