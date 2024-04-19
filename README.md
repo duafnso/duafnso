@@ -13,7 +13,17 @@
 - ❓ Me pergunte tudo sobre tecnologia pois sou empolgado com tudo  
   
 
-- ⚡ Fato curioso, não uso muito o github  
+- ⚡ Fato curioso, não uso muito o github
+
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=duafnso&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
   
 
 <br/>  
@@ -79,11 +89,7 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/duafnso" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/duafnso" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />  
 </div>  
   
 
@@ -105,14 +111,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22t3oblejfpd3xkpcldcdooli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=duafnso&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 <div align="center"></div>
 <br />
